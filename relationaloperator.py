@@ -1,8 +1,0 @@
-a = int (input('Enter the A :'))
-b = int (input('Enter the B :'))
-print("A is greater than B :", a>b)
-print ("A is less than B :", a<b)
-print ("A is greather than or equal to B :", a>=b)
-print ("A is less than or equal to B :", a<=b)
-print ("A is equal to B :", a==b)
-print ("A is not equal to B :", a!=b)
