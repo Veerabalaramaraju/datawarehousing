@@ -1,0 +1,13 @@
+import math #To Perform Math realated things we are using this Math Library
+a = int (input ("Enter a value of A : "))
+b = int (input ("Enter a value of B : "))
+print ("Celiur value of A :", math.ceil(a))
+print ("Celiur value of B :", math.ceil(b))
+print ("floor value of A :", math.floor(a))
+print ("floor value of B :", math.floor(b))
+print ("A Power of B :", math.pow(a,b))
+print ("Fractional of A :",math.factorial(a))
+print ("Fractional of B :",math.factorial(b))
+print ("Truncate of A :",math.trunc(a))
+print ("Truncate of B :",math.trunc(b))
+print ("GCD of A and B :",math.gcd(a,b))
